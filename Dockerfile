@@ -1,4 +1,4 @@
-FROM jrottenberg/ffmpeg:4.0-alpine
+FROM jrottenberg/ffmpeg:5.1-alpine
 
 ENV NODE_VERSION 11.3.0
 
